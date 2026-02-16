@@ -1,4 +1,4 @@
-📉 Customer Churn Analysis & Predictive Modeling
+## 📉 Customer Churn Analysis & Predictive Modeling
 ## 📌 Project Overview
 Customer churn is one of the most critical challenges for subscription-based businesses. This project focuses on analyzing customer behavior patterns and building a predictive model to identify high-risk customers and reduce revenue loss.
 The objective is to combine data analysis, SQL querying, visualization, and machine learning to provide actionable business insights.
